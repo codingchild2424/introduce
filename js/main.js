@@ -18,7 +18,7 @@ gcontrol.addEventListener('mouseout', function(){
 var ccontrol = document.getElementById('cbutton');
 ccontrol.addEventListener('click', function(){
     con.innerHTML = "Elementary school teacher<br><br>First Lieutenant in R.O.K.A.<br><br>Seoul National University, Master degree<br><br>MIEE<br><br>Maker:ed";
-    pic.src="picture/java.jpg";
+    pic.src="picture/java1.jpg";
 })
 ccontrol.addEventListener('mouseover', function(){
     ccontrol.style.backgroundColor = "rgb(70, 65, 65)";
